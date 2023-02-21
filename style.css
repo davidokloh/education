@@ -1,0 +1,28 @@
+.logo{
+    width: 20%;
+}
+.nav-color{
+    background-color: darkred;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+.carousel-caption{
+    text-align: center;
+    margin-top: -5rem;
+    font-size: larger;
+   
+    font-weight: 100;
+}
+.about{
+    background-size: cover;
+    background-image: url(/images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash\ -\ Copy.jpg);
+    height: 100vh;
+
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+
+
+}
