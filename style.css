@@ -23,6 +23,45 @@
     text-align: center;
     color: black;
     font-size: xx-large;
+}
+.content{
+    text-align: center;
+}
 
-
+.aboutus{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: auto;
+}
+.jamb{
+    background-image: url(images/jamb\ logo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 60%;
+}
+.nav-color2{
+    background-color: darkgreen;
+}
+.waec{
+    background-image: url(i);
+}
+.logo2{
+    width: 50%;
+}
+.contact{
+    background-image: url(images/kenny-eliason-zFSo6bnZJTw-unsplash\ -\ Copy.jpg);
+    background-size: cover;
+    height: 80pc;
+    width: 84.4pc;
+}
+.nav-color3{
+    background-color: darkred;
+}
+.physics{
+    background-color: aqua;
+}
+.diction{
+    background-color: blue;
 }

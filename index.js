@@ -18,3 +18,10 @@ function showOrHide() {
         document.getElementById("scientist").style.display="none" 
     }
 }
+function showChe(){
+    var science=document.getElementById("science").value
+    if(scientific=="chemistry"){
+    window.location.href="chemistry.html";
+
+}
+}
